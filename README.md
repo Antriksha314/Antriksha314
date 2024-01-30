@@ -2,6 +2,10 @@
 
 Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovative solutions in E-commerce website development. With over 3 years of experience, I specialize in Django, REST API development, Docker, GraphQL, PostgreSQL, AWS, and payment gateways like PayPal and Stripe.
 
+![Antriksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=antriksha314)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antriksha314&layout=compact)
+
 ## Tech Stack
 
 - **Backend:** Nodejs ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), Django ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white), Express.js, FastAPI
