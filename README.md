@@ -1,6 +1,6 @@
 ## About Me  🧐
 
-Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovative solutions in E-commerce website development. With over 3 years of experience, I specialize in Nodejs, REST API development, Docker, PostgreSQL, AWS, and payment gateways like PayPal and Stripe.
+Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovative solutions in E-commerce website development. With over 2.5 years of experience, I specialize in Nodejs, REST API development, Docker, PostgreSQL, AWS, and payment gateways like PayPal and Stripe.
 
 ![Antriksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=antriksha314)
 
