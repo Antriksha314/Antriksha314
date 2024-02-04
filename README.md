@@ -1,6 +1,6 @@
 ## About Me  🧐
 
-Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovative solutions in E-commerce website development. With over 3 years of experience, I specialize in Django, REST API development, Docker, GraphQL, PostgreSQL, AWS, and payment gateways like PayPal and Stripe.
+Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovative solutions in E-commerce website development. With over 3 years of experience, I specialize in Nodejs, REST API development, Docker, PostgreSQL, AWS, and payment gateways like PayPal and Stripe.
 
 ![Antriksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=antriksha314)
 
@@ -8,7 +8,7 @@ Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovativ
 
 ## Tech Stack
 
-- **Backend:** Nodejs ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), Django ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white), Express.js, FastAPI
+- **Backend:** Nodejs ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), Express.js, FastAPI
 - **Frontend:** React.js ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), Next.js
 - **Database:** PostgreSQL ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white), MongoDB
 - **Cloud Services:** AWS ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
