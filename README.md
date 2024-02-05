@@ -4,7 +4,11 @@ Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovativ
 
 ![Antriksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=antriksha314)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=antriksha314&theme=dark&hide_border=false)<br/>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antriksha314&layout=compact)
+
 
 ## Tech Stack
 
