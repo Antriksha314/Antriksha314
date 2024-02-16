@@ -17,7 +17,7 @@ Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovativ
 - **Database:** PostgreSQL ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white), MongoDB
 - **Cloud Services:** AWS ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - **Payment Gateways:** PayPal ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white), Stripe ![Stripe](https://img.shields.io/badge/stripe-%231A1A1A.svg?style=for-the-badge&logo=stripe&logoColor=white)
-- **Other Technologies:** Docker ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white), GraphQL, JWT, Auth0
+- **Other Technologies:** Docker ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white), JWT, Auth0
 
 ## Project Highlights
 
