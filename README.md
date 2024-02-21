@@ -23,11 +23,12 @@ Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovativ
 
 ### E-commerce Website on Shopistry Platform
 
-- Implemented Stripe and Chase API payment integration.
-- Handled CRUD operations of APIs.
-- Implemented JWT and Auth0 security middleware.
-- Managed a tenanted database in MongoDB.
-- Handled Stripe Webhook.
+- Designed and developed frontend and backend systems for an innovative eCommerce builder application.
+- Crafted intuitive frontend interface for seamless user experience.
+- Architected robust admin platform for efficient order and product management.
+- Implemented responsive design and advanced security measures.
+- Integrated seamless third-party services for enhanced functionality.
+- Continuously optimized platform for superior performance and user satisfaction.
 
 ## Contact
 
