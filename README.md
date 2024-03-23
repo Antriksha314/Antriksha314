@@ -22,13 +22,23 @@ Hi, I’m Antriksha (@Antriksha314), and I'm passionate about creating innovativ
 ## Project Highlights
 
 ### E-commerce Website on Shopistry Platform
-
-- Designed and developed frontend and backend systems for an innovative eCommerce builder application.
-- Crafted intuitive frontend interface for seamless user experience.
-- Architected robust admin platform for efficient order and product management.
-- Implemented responsive design and advanced security measures.
-- Integrated seamless third-party services for enhanced functionality.
-- Continuously optimized platform for superior performance and user satisfaction.
+- Primary developer on an e-commerce platform using ReactJS for storefront and administration site connected
+  to a Javascript and MongoDB backend.
+- Create a multi-tenant solution for e-commerce administration and database management, while implementing
+  secure API and database access.
+- Create a Google Analytics application within the local dashboard to pull and display data for consumption.
+- Implement a new subscription feature for the internal e-commerce platform integrating with Stripe and
+  allowing organizations to manage subscriptions at the product level and allow customers to make subscriptions
+  and manage existing subscriptions.
+- Create plugins and integration with 3rd party software providers to provide automatic order creation and
+  fulfilment, data analytics, and marketing.
+- Manage the internal database for the platform and adjust the database structure to support newly implemented
+  features.
+- Maintain and update external client ReactJS front ends and provide ad-hoc changes for requests from clients
+  for new and quick services.
+- Provide responsive design changes and ideas to clients to offer them a modern look and feel to their websites.
+- Restructure code for external client websites, to provide a cleaner and more maintainable code base.
+- Conduct testing on newly implemented features for both internal and external changes.
 
 ## Contact
 
